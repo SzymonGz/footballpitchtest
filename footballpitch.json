@@ -1,0 +1,145 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/434px-Football_pitch.svg.png",
+    "baseName": "434px-Football_pitch.svg.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 434,
+      "height": 600,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 1041600,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 247,
+        "mean": 75.1921,
+        "median": 71.25,
+        "standardDeviation": 5312.83,
+        "kurtosis": -1.80643,
+        "skewness": 0.0490604,
+        "entropy": 0.0635279
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 32,
+        "max": 237,
+        "mean": 130.117,
+        "median": 128,
+        "standardDeviation": 2957.03,
+        "kurtosis": 34.0673,
+        "skewness": 5.81905,
+        "entropy": 0.0651818
+      },
+      "red": {
+        "min": 0,
+        "max": 237,
+        "mean": 5.72055,
+        "median": 0,
+        "standardDeviation": 7671.32,
+        "kurtosis": 29.134,
+        "skewness": 5.44968,
+        "entropy": 0.0604664
+      },
+      "green": {
+        "min": 155,
+        "max": 247,
+        "mean": 159.21,
+        "median": 157,
+        "standardDeviation": 2951.65,
+        "kurtosis": 28.772,
+        "skewness": 5.41932,
+        "entropy": 0.0679969
+      },
+      "blue": {
+        "min": 0,
+        "max": 237,
+        "mean": 5.72055,
+        "median": 0,
+        "standardDeviation": 7671.32,
+        "kurtosis": 29.134,
+        "skewness": 5.44968,
+        "entropy": 0.0604664
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.45455,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 434,
+      "height": 600,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-12-03T23:44:51+00:00",
+      "date:modify": "2021-12-03T23:44:51+00:00",
+      "png:bKGD": "chunk was found (see Background color, above)",
+      "png:cHRM": "chunk was found (see Chromaticity, above)",
+      "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "434, 600",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "png:text": "2 tEXt/zTXt/iTXt chunks were found",
+      "signature": "9757ddd19e0dc87c84be57fa6599f717be2511d7991cf10c1c36bf6e489cc004"
+    },
+    "tainted": false,
+    "filesize": "13259B",
+    "numberPixels": "260400",
+    "pixelsPerSecond": "12.5993MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.020",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
