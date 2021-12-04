@@ -29,6 +29,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
+        "coordinates": [[[0, 4], [-1, 4], [-1, 6], [0, 6], [0, 4]]]
+      },
+      "properties": {"name": "abc2b"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
         "coordinates": [[[10, 0], [20, 0], [20, 10], [10, 10], [10, 0]]]
       },
       "properties": {"name": "def"}
