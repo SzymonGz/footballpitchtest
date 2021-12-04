@@ -37,6 +37,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
+        "coordinates": [[[0, 2], [4, 2], [4, 8], [0, 8], [0, 2]]]
+      },
+      "properties": {"name": "abc3a"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
         "coordinates": [[[18, 3], [20, 3], [20, 7], [18, 7], [18, 3]]]
       },
       "properties": {"name": "abc3"}
