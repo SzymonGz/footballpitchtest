@@ -13,17 +13,9 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [[[0, 3], [5, 3], [5, 7], [0, 7], [0, 3]]]
+        "coordinates": [[[0, 3], [2, 3], [2, 7], [0, 7], [0, 3]]]
       },
       "properties": {"name": "abc2"}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [[[15, 3], [20, 3], [20, 7], [15, 7], [15, 3]]]
-      },
-      "properties": {"name": "abc3"}
     },
     {
       "type": "Feature",
@@ -32,6 +24,14 @@
         "coordinates": [[[10, 0], [20, 0], [20, 10], [10, 10], [10, 0]]]
       },
       "properties": {"name": "def"}
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18, 3], [20, 3], [20, 7], [18, 7], [15, 3]]]
+      },
+      "properties": {"name": "abc3"}
+    },
   ]
 }
