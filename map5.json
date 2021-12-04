@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 0], [10, 0], [10, 10], [0, 10], [0, 0]]]
+      },
+      "properties": {"name": "abc"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[0, 3], [2, 3], [2, 7], [0, 7], [0, 3]]]
+      },
+      "properties": {"name": "abc2"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[10, 0], [20, 0], [20, 10], [10, 10], [10, 0]]]
+      },
+      "properties": {"name": "def"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[18, 3], [20, 3], [20, 7], [18, 7], [18, 3]]]
+      },
+      "properties": {"name": "abc3"}
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [10, 5] 
+      },
+      "properties": {
+        "radius": 2,
+        "name": "abc4"
+      }
+    }
+  ]
+}
