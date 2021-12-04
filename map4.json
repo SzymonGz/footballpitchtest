@@ -35,10 +35,14 @@
     },
     {
       "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [10, 5] 
+      },
       "properties": {
         "radius": 2,
-      },
-      "geometry": { "type": "Point", "coordinates": [10, 5] }
+        "name": "abc4"
+      }
     }
   ]
 }
