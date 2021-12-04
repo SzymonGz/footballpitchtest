@@ -40,6 +40,7 @@
         "coordinates": [10, 5] 
       },
       "properties": {
+        "subType": "Circle",
         "radius": 2,
         "name": "abc4"
       }
